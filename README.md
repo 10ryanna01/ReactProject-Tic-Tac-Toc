@@ -1,3 +1,13 @@
+# Simple Tic-Tac-Toe 🤩🥳
+## Built with react hooks and state logic
+### Gameplay  Features
+#### ability to detect wins and draws
+#### visually display whose turn it is next
+#### a persistant restart/reboot game function
+#### responsive transform scale for small screens
+#### game play interactions halted when a win lose or draw is detected
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
