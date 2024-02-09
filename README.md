@@ -1,4 +1,4 @@
-# Simple Tic-Tac-Toe 🤩🥳
+# Simple Tic-Tac-Toe 🤩🥳 @ [Try It Out](https://react-project-tic-tac-toc.vercel.app/)
 ## Built with react hooks and state logic 🚀🦄
 ### Gameplay  Features  🤹‍♀️
 #### ability to detect wins and draws 🎯
